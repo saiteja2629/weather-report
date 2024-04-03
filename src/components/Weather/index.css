@@ -18,7 +18,6 @@
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  
 }
 .search-bar {
   border-radius: 10px;
@@ -79,6 +78,7 @@
   color: rgb(54, 16, 143);
   margin: 16px 0;
 }
+
 .wind-speed {
   font-size: 18px;
   display: flex;
@@ -100,7 +100,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   font-family: "Times New Roman", Times, serif;
   font-weight: 600;
   color: rgb(255, 47, 47);
@@ -108,22 +107,18 @@
   font-weight: 600;
 }
 .wind-humid {
-  
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  
-  width:400px;
-  
+  width: 400px;
 }
 .descrp {
   font-size: 19px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: chocolate;
-  
   font-weight: 600;
-  width:200px;
+  width: 200px;
   margin: 18px 0;
   display: flex;
   flex-direction: column;
@@ -131,14 +126,10 @@
   align-items: center;
 }
 .visibility {
-
- 
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: rgb(63, 30, 210);
-  
   font-weight: 800;
-  width:200px;
- 
+  width: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -151,10 +142,8 @@
   align-items: center;
   justify-content: space-evenly;
   margin: 16px 0;
-  
 }
 .sunset {
-
   display: flex;
   flex-direction: column;
   align-items: center;
